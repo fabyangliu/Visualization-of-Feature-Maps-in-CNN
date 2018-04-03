@@ -8,6 +8,7 @@
 ## Examples
   Feature map visualizations of the first convolution layer.
 ![index1](https://github.com/fabyangliu/visualization-of-feature-maps-in-cnn/blob/master/picture/f1.png)
+  
   Feature map visualizations of the second convolution layer.
 ![index2](https://github.com/fabyangliu/visualization-of-feature-maps-in-cnn/blob/master/picture/f21.png)
 ![index3](https://github.com/fabyangliu/visualization-of-feature-maps-in-cnn/blob/master/picture/f22.png)
