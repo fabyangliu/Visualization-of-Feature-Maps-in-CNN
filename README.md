@@ -3,8 +3,8 @@
 ## library versions
   * python 3.5.2;
   * tensorflow 1.4.1;
-  * numpy 1.14.0 ；
-  * matplotlib 1.5.3;
+  * numpy 1.14.0 ；
+  * matplotlib 1.5.3;
 ## examples
   Feature map visualizations of the first convolution layer.
 ![index1](https://github.com/fabyangliu/visualization-of-feature-maps-in-cnn/blob/master/picture/f1.png)
